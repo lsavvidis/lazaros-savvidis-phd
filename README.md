@@ -1,9 +1,10 @@
 # lazaros-savvidis-phd
-Hi there, I'm Lazaros Savvidis,
-Welcome to my little corner of GitHub! I'm currently deep-diving into the world of Artificial Intelligence for my PhD at the University of Nicosia. To say I'm excited about AI would be an understatement – I'm absolutely fascinated by it!
+Welcome to my GitHub page. I'm Lazaros, and I'm currently working on my PhD in Artificial Intelligence at the University of Nicosia. I find AI really exciting and am passionate about it.
 
-AI is this huge, ever-changing field, and there's so much out there yet to explore. I'm doing my bit by focusing on a really cool aspect – a new approach to solving the Traveling Salesman Problem (TSP). It's tricky, but hey, that's what makes it fun, right?
+AI is a big and ever-changing area with a lot to discover. My research is about a new way to solve the Traveling Salesman Problem (TSP) – it's a tough problem, but I enjoy the challenge. 
 
-I'm all about sharing ideas and learning from others. If you've got any thoughts, suggestions, or just want to chat about AI stuff, I'm all ears. And hey, if my work sparks an idea for someone else and leads to something amazing, I'll be over the moon!
+I am also dedicated to discovering innovative solutions and ideas that can significantly enhance our daily lives, focusing on practical applications that offer tangible benefits and improvements.
 
-Feel free to poke around my projects and drop a line if anything catches your eye. Thanks for stopping by, and let's make something awesome together!
+I believe in sharing knowledge and learning from others. If you have any ideas, suggestions, or want to talk about AI, I'd love to hear from you. If my research can inspire or help others in any way, that would be fantastic!
+
+Feel free to look through my projects and get in touch if you find something interesting. Thanks for stopping by, and I hope we can work on something great together!
